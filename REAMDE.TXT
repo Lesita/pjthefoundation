@@ -1,0 +1,100 @@
+=================================================
+=		THE FOUNDATION PROJECT		=
+=						=
+=A project of Li Ao to define foundations of	=
+=some of his important works, primarily those
+=involving the use of modern intricacies.
+=
+=This project was started from zero existing	=
+=documented technologies, meaning that it is	=
+=neither based on any existing finished or	=
+=semi-completed projects, nor a continuation	=
+=of any existing projects. For more information	=
+=behind-the-scene, please see the file located	=
+=at "Documentation\Behind the Scene.txt".	=
+=================================================
+
+I. INTRODUCTION
+
+The Foundation Project situates as a core, foundation system
+that provides basis of a management framework on the way to
+carry out some select works of Li Ao. This framework aims at
+resolving the long-lasting problem of lack of management of
+many random works carried out by Li Ao, by building up an
+apparatus that works to organising the workflow of the jobs,
+as well as to building up a well-furnished record documenta-
+tion system, to enable the ability of using precise technol-
+ogies to throtting the working pace, regulating the methodo-
+logies, and to documenting records in an efficient way, with
+the possibilities of furtherly extending the depth of techn-
+ology to become more precise and accurate.
+
+In the past, when random works are taking place Li Ao usual-
+ly focus on doing the interested things, while keeping some-
+thing necessary for future works intact; that means those
+being held for future clearance might never get a chance to
+finish, as over times badly or non-documented information
+becomes more harder to be retrieved as context and informat-
+ion fades out naturally. Also, those badly-managed jobs mig-
+ht be completely voided because of their ill-fated manageme-
+nt, for example important files became vanished as the
+residing storage medium became broken. Carrying out these
+important works randomly without a proven methodology
+would only makes contrary progress as losing critical
+elements, which are missing from the outcome of these
+randomly executed works, makes the results become no value
+while also disproportionately wastes the time spent on them.
+
+After nearly two decades of exploration, Li Ao had now furn-
+ished an appropriate management framework that can be proven
+theortically correct, meaning that with further formalise
+works these jobs can be executed well-organised, well-docum-
+ented while making expected outcome, which furtherly
+creating values to his desire. As he now has ample time
+doing these formalise works, the first project amongst other
+projects to be planned, called The Foundation Project, is
+presented here in the form of electronic documents to
+prescribe the vital, critical rules and policies of carrying
+out specific works under the framework the project also
+furnishes.
+
+Simply put in one sentence, the purpose of this project
+is to "Setting up intricacies to enable a foundation which
+helps necessary tasks managed well in a regulated and regul-
+arised manner."
+
+II. ARTICLES OF THIS PROJECT
+
+This project contains the following articles:
+
+-- A comprehensive framework summoning a general, principal
+   task management system to be enforced by Li Ao with
+   self-assessment schedules;
+
+-- A framework summoning enforcement measures on quality
+   of tasks carried out on the aforementioned framework,
+   and an ethics regulatory regime to be enforced when
+   carrying out tasks under such framework (for which these
+   two articles both give general provisions as an outer
+   framework);
+
+-- General baseline of quality of tasks carried out under
+   the aforementioned framework.
+
+III. REFLECTIONS OF THIS PROJECT
+
+This project is reflected in the forms of electronic
+documents, which are managed by file systems to
+distinguish each of them with others, with the text
+document or other formats or both, provided they are
+in formats de facto accepted as industrial norms.
+
+In the future, this project may be furtherly reconstructur-
+ed with document formats that meets Li Ao's own requiremen-
+ts while also satisying industry standards or adhering to
+industry norms.
+
+IV. CONTACTS
+
+In case of questions or requests, please contact Li Ao
+directly at his email address, li.ao@work2.liao.media .
