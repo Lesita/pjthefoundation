@@ -1,0 +1,9 @@
+Construction Guidelines
+=======================
+
+
+I. INTRODUCTION
+
+This document provides basic guidelines of construction of documents of different types, including those composed with conventional writing systems and of those constructed in a special format.
+
+For composing documents in conventional writing systems, the documents should generally also be furnished in widely-accepted styles of representation, for exampe, using A4-sized paper with appropriate font sizes that can be easily read by humans, because using disproportionate sizes of paper and fonts would likely to cause difficulties of some particular group of people to reading them conveniently which creates unnecessary difficulties.
